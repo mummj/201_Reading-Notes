@@ -1,0 +1,7 @@
+## Read 04
+
+- In the first HTML Reading the author talks about the differnt ways that you can link things. In order to link in HTML you must use an atribute tag. When using the atribute tag there are different ways to put links in such as: target, malto, and using the # to link within a page. The second HTML reading is all about layouts. In this reading it talks about CSS and how to use float. It also gives information on fixed versus liquid layouts. Liquid layouts are ideal due to the fact that they will flow and fit to the screen that is presenting the content. The reading finally shows how to use grid display as well.
+
+- The JavaScript reading is all about functions. This is an introduction to functions and it talks about the different components such as declaration experssion and operators. The reading also goes into talking about local vs global variables. Global variables are outside of the function and local variables are function-level (pg. 98). The second reading in the JavaScript is about paired programming. This is a model where one person is the Driver or the progammer, and one person is the navigator. This technique is used to help be able to program but als understand what you are doing in programming by explaining it. 
+
+- <a href='README.md'> link to home </a>
