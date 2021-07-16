@@ -1,0 +1,6 @@
+## Read 5
+
+- The first HTML reading for today is on images. This reading discusses what images are and how to insert them into you page. Where you place the image in html is where it will show up on the page. This talks about aligning images so you can move them around. Lastly it talks about the types of images and sizing those images to make them look normal on the page. The Second HTML reading talks about Color. This talks about forground and background color. The last reading is all on text. This talks about everything that you can do with text from changing it to making it all caps to indenting putting shadow and links. This reading also talks about hover active and focus.   
+  - The piece of information in this reading that is important to me that I did not know previously is opacity. Using opacity you can make sections see through. Opacity is between 0.0 and 1.0.  
+
+- There is no JavaScript reading today instead the second reading is on images and data. This reading talks about lossy vs lossless. Lossy perminantly removes data and lossless compresses data. It also talks about transparancy and how to lay things in the background. Finaly it talks about which files utilize what colors and what animations. 
