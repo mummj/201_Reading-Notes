@@ -1,0 +1,2 @@
+## Read 08
+-  The only reading today is a review over the layouts. In this reading it talks about CSS and how to use float. It also gives information on fixed versus liquid layouts. Liquid layouts are ideal due to the fact that they will flow and fit to the screen that is presenting the content. The reading finally shows how to use grid display as well.
