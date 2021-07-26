@@ -1,0 +1,5 @@
+## Read 11
+
+- The first reading in the html css is all about images. This reading talks about how you can size images. How you can center images and move them around. It also talks about background images and how to repeat images for backgrounds. Finally the reading talks about the way to move the background images around. This is done by changing the graident and background possitioning. You can change the CSS in order to have the image roll over. The second reading in HTML book is over practical information. This reading talks about how to look at information the visitors to your site ar looking at. It talks about domain names and getting your website live. There are different analytical tools to use to get information about site visitors. 
+
+- The second reading out of the JavaScript book is a short one today. This reading talks about how to select elements using the DOM and how to loop through them. The reading talks about get element by ID and querry selector to get elements using the DOM. It then talks about using for loops to loop through the elements. 
