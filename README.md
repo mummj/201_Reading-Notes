@@ -11,6 +11,7 @@
 - <a href='class-08.md'>Day 7 </a>
 - <a href='class-09.md'>Day 8 </a>
 - <a href='class-10.md'>Day 9 </a>
-
+- <a href='class-11.md'>Day 10 </a>
+- <a href='class-12.md'>Day 11 </a>
 
 
