@@ -1,3 +1,3 @@
-## Read 11
+## Read 12
 
 - This reading is all about Canvas. Canvas is an element that allows you to draw and create images withing the HTML and JavaScript. The first article talks about how to use the canvas element and close it out and how to adjust the size. The Second article talks about how to use for loops to draw shapes within the canvas. This is done by using pi and ctx move too. This talks about how to use arc and changing the x and y in order create curves. The third article is all about color. This talks about how you can change the brush strokes from square to circular. You can also change the color as to where you are at on teh screen. Adding color in different spots of the drawing will give you different color patterns and shapes. The last article talks about text on the canvas. The text can be adjusted and formatted with color to make it look like and image. Using font and fill text inside your canvas function will allow you to adjust this. 
