@@ -1,0 +1,3 @@
+## Read 12
+
+- The reading for today is an article that is over local storage. There are a lot of different types of local storage some of them are good and some are not so good. These storage methods range from JavaScript Variables to Cookies and API files. They are used to store local data on a machine. This allows data to be reused if you are using the same machine. This will be helpful for bus mall if we need to store data locally. Cookies are used to retain state between the client and the server. The future of local storage is IndexedDB and File API. 
